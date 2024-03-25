@@ -9,5 +9,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="ConsoleReaderLib" level="application" />
+    <orderEntry type="library" name="ConsoleReaderLib1" level="project" />
   </component>
 </module>
